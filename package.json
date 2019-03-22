@@ -1,0 +1,11 @@
+{
+  "name": "consolelogstatic",
+  "version": "1.0.0",
+  "description": "homepage of consolelog",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jchung201",
+  "license": "MIT"
+}
